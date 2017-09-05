@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sadboy\.android\build-cache\69f8f6a60370fff34e84e80ccd31b3c316ff901e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="547326950573bb73d6064506e003a201045b2bd7">
+        <dex dex="D:\GitHub\tensorflow-style-transfer-android\android\build\intermediates\pre-dexed\debug\classes_6d88c7a754647000837c8a727b3bb167b8ce94ab.jar" />
+    </item>
+
+</items>
